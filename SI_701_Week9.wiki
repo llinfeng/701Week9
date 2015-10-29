@@ -1,0 +1,40 @@
+= Planning for 701 session with Tanya. =
+
+== Easley, D. and Kleinberg, J. Networks, Crowds, and Markets: Reasoning About a Highly Connected World, Chapter 6 ==
+
+This is a formal introduction to Game Theory. The goal here is to formalize the
+theory and reach the "standard result". Such standard result will then be used
+as benchmark against what experimentalists observe through human-subject
+experiments.
+
+=== Learning Goal: ===
+* Formal construct of Game Theory (incorporate games)
+* Not sure how technical shall the introductions be?
+    * Shall we solve an example or two?
+    * Shall we give an outline of the contents in this chapter?
+
+== Schelling, T.C., “Bargaining, communication, and limited war.” Conflict Resolution, 1957.  1(1): p. 19-36. ==
+This is an old piece that motivates game theory. Without too much deviation from
+reality, we observe that:
+* The difficulty of a coordination process lies in communication and "common
+  ground"
+    * Here, the communication channel help with
+    * "common ground" restricts to the level of mutual awareness of "information
+      set" (which shall have been formally defined in the Easley & Kleinberg)
+* TODO: list further factors and complete the picture *(In a more inclusive way.)*
+
+=== Learning Goals ===
+To motivate:
+* Communication may foster corporative game (or a strategic situation);
+* In a non-corporative setting, simplifying payoff structure may ease the
+  tension. (Limited war: fully ban)
+* Connect this back to formal game theory?
+
+== Camerer, C. F., Behavioral Game Theory: Experiments in Strategic Interaction, Chapter 1, ==
+Three examples are given to motivate "behavioral game theory":
+* Ultimatum Bargaining
+* Path-Dependent Coordination in "Continental Divide" Games
+* "Beauty Contests" and Iterated Dominance
+
+=== Learning Goals ===
+* TODO: complete this from re-reading Section 1.3 and Section 1.4 (conclusion).
