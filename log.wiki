@@ -2,9 +2,9 @@
 
 TODO:
 
-* [ ] Hide the "minutes" from the slides
-* [ ] Hide the "minutes" from handout of learning goals + plans
-* [ ] For the set of four games with simple payoffs:
+* [X] Hide the "minutes" from the slides
+* [X] Hide the "minutes" from handout of learning goals + plans
+* [X] For the set of four games with simple payoffs:
       1. Payoff matrices on slides, one game a time.
       2. (Re)-Name the strategies verbally ==> to make them meaningful;
       3. Plan:
@@ -16,7 +16,7 @@ TODO:
          d) Rise hands and document on board, for each game.
       * Goal here: to demonstrate the types of games and how they fit into
         strategic situations.
-* [ ] Enhance the concept of "iterated deletion" as a method:
+* [X] Enhance the concept of "iterated deletion" as a method:
       1. Revisit Prison Dilemma result, and motivate the idea of iterated
          deletion
       2. Demonstrate the long game with 4*4 matrix, through applying the method
@@ -26,9 +26,9 @@ TODO:
          * ==> To motivate the idea of Nash equilibrium after the break.
 * [ ] 7-equilibria game: need to take slides from Tanya on *description of the
       game*.
-
+      * [ ] Pending from Tanya
 * [ ] Prepare practice examples (for calculation), as backup plans.
-* [ ] Comment on what has been missing in the theoretical context of Game
+* [X] Comment on what has been missing in the theoretical context of Game
       Theory:
       1. How unrealistic they are!
          1) simultaneous move game is not valid upon communication;
@@ -36,9 +36,44 @@ TODO:
          * repeated game,
          * sequential games
          * etc.
-* [ ] Schelling's piece: discussion questions
+* [X] Schelling's piece: discussion questions
       1. How would communication affect the structure of the game?
       2. How would the number of equilibria affect strategic decision making?
          Any other way of eliminating possible confusions?
             (For example: credible through will reinforce a unilateral strategy)
       3. etc
+
+= Running Log =
+* [ ] Page 11: 图片 ==> tables
+      ===> insert
+Zero-Sum Games
+Battle of the Sexes (a coordination game)
+Chicken or Hawk versus Dove (an anti-coordination game)
+Prisoner’s Dilemma (a cooperation game)
+
+
+1. Zero-Sum Games
+2. Battle of the Sexes
+3. Chicken or Hawk versus Dove
+4. Prisoner’s Dilemma
+
+  a) Split 12 people into 2 groups;
+  b) Give unspecified opponent strategies (don't pair people into groups of twos)
+  c) Draw the demo of the games on the board, and keep recording people's choice in their role.
+  d) Rise hands and document on board, for each game.
+
+
+= Pending =
+* [ ] 7-equilibria game: need to take slides from Tanya on *description of the
+      game*.
+      * [ ] Pending from Tanya
+* [ ] Prepare practice examples (for calculation), as backup plans.
+
+= Check PowerPoint Slides =
+* [ ] Payoff matrix:
+    * [ ] Page 20
+    * [ ] Page 13-16
+
+= Preparation before class =
+* [ ] 4 matrices on to board
+* [ ] Tanya's 4 * 4 game onto the board
