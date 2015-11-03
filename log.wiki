@@ -1,0 +1,44 @@
+===2015-11-02 19:30:41===
+
+TODO:
+
+* [ ] Hide the "minutes" from the slides
+* [ ] Hide the "minutes" from handout of learning goals + plans
+* [ ] For the set of four games with simple payoffs:
+      1. Payoff matrices on slides, one game a time.
+      2. (Re)-Name the strategies verbally ==> to make them meaningful;
+      3. Plan:
+         a) Split 12 people into 2 groups;
+         b) Give unspecified opponent strategies (don't pair people into groups
+            of twos)
+         c) Draw the demo of the games on the board, and keep recording people's
+            choice in their role.
+         d) Rise hands and document on board, for each game.
+      * Goal here: to demonstrate the types of games and how they fit into
+        strategic situations.
+* [ ] Enhance the concept of "iterated deletion" as a method:
+      1. Revisit Prison Dilemma result, and motivate the idea of iterated
+         deletion
+      2. Demonstrate the long game with 4*4 matrix, through applying the method
+         of iterated deletion of dominated strategies.
+      3. Introduce the coordination game (game of sex, for example), where
+         multiple equilibria co-exists.
+         * ==> To motivate the idea of Nash equilibrium after the break.
+* [ ] 7-equilibria game: need to take slides from Tanya on *description of the
+      game*.
+
+* [ ] Prepare practice examples (for calculation), as backup plans.
+* [ ] Comment on what has been missing in the theoretical context of Game
+      Theory:
+      1. How unrealistic they are!
+         1) simultaneous move game is not valid upon communication;
+      2. Yet, there are more forms of games available:
+         * repeated game,
+         * sequential games
+         * etc.
+* [ ] Schelling's piece: discussion questions
+      1. How would communication affect the structure of the game?
+      2. How would the number of equilibria affect strategic decision making?
+         Any other way of eliminating possible confusions?
+            (For example: credible through will reinforce a unilateral strategy)
+      3. etc
